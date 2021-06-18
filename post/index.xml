@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Vineeth CH</title>
+    <link>https://VineethChandha.github.io/Vineeth_Portfolio/post/</link>
+    <description>Recent content in Projects on Vineeth CH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://VineethChandha.github.io/Vineeth_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6:Women Diabetes Predictor</title>
+      <link>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 14 Feb 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-6/</guid>
+      <description>Introduction: Women Diabetes Predictor is the machine learning application used to detect the diabetes in women. The dataset is taken from the Kaggle site. The applications takes the following data to predict the diabetes.
+ Number of Pregnancies Glucose Level Blood Pressure Skin Thickness Insulin Level Body Mass Index Diabetes Pedigree Function Age  Technology Used: We have used supervised machine learning model Random Forest Classiffer to predict the output.</description>
+    </item>
+    
+    <item>
+      <title>Project 5:Advanced Flipkart Review Scrapper</title>
+      <link>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-5/</link>
+      <pubDate>Fri, 13 Dec 2019 11:15:58 -0400</pubDate>
+      
+      <guid>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-5/</guid>
+      <description>Introduction: Advanced Flipkart Review Scrapper is the application used to retrieve the reviews and ratings related to the product searched and analyses them to form graphs.
+It fetch the details like Product Name, Price, Discounts, Seller Name, Offers, Customer Name, Rating, Comment Heading, Comment etc. It stores all the retrieved information in NoSQL DB and also provides a channel which redirect to flipkart website to buy the product searched.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Image Scrapper</title>
+      <link>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 12 Apr 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-4/</guid>
+      <description>Introduction: Image Scrapper is the application used to collect the required images in bulk from google.
+It collects all the images and saves them to the required directory.
+Prerequisites:  Python installed. A Python IDE (Integrated Development Environment): like PyCharm, Spyder, or any other IDE of choice. Chrome driver compatable with the chorme version you are using.  Collecting Images:  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Flipkart Review Scrapper</title>
+      <link>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-3/</link>
+      <pubDate>Thu, 11 Apr 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-3/</guid>
+      <description>https://reviewscraper-vineeth.herokuapp.com/
+Introduction: Flipkart Review Scrapper is the application used to retrieve the reviews related to the product searched.
+It fetch the details like Product Name, Customer Name, Rating, Comment Heading, Comment.
+Technology Used: Web scraping is a technique used in this application. Using this the webpages from the internet are fetched and parsed to understand and extract specific information similar to a human being. Web scrapping consists of two parts:</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Movie Recommender System Using Python</title>
+      <link>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 10 Mar 2018 11:00:59 -0400</pubDate>
+      
+      <guid>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-2/</guid>
+      <description>This is a python code build to suggest the movies having same rating as the selected movie. This is build on the concept of Correlation.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: TicTacToe Game</title>
+      <link>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://VineethChandha.github.io/Vineeth_Portfolio/post/project-1/</guid>
+      <description>Game Description: It is a game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does. In order to win the game, a player must place three of their marks in a horizontal, vertical, or diagonal row.
+ Python Implementation: This game is implemented using basics of python programing language like Functions, Conditional Statements, Loops etc.</description>
+    </item>
+    
+  </channel>
+</rss>
